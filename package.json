@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "networks",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A Neural Networks Visuvalization Library",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -11,10 +11,10 @@
     "url": "git+https://github.com/electron/electron-quick-start.git"
   },
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial"
+    "Neural",
+    "Networks",
+    "DeepLearning",
+    "Visuvalization"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
